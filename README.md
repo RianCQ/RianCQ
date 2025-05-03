@@ -18,7 +18,7 @@ Hello! My name is <i>Rian C. Quintanilha</i>. I'm from Federal University of Jui
 I have interest in Cybersecurity and Machine Learning! I'm currently studying R, RStudio, 🐍Python 3 and 🍵 Java.</br>
 </br>
 <strong>Skills:</strong>
-- C++ code
+- C++ programming
 - Web Development
 </br>
 <strong>Tools:</strong>
