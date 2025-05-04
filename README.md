@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello! My name is <i>Rian C. Quintanilha</i>. I'm from Federal University of Juiz de Fora taking BS Computer Science.💻</br>
-I have interest in Cybersecurity and Machine Learning! I'm currently studying R, RStudio, 🐍Python 3 and 🍵 Java.</br>
+I have interest in Cybersecurity and Machine Learning, currently studying R, RStudio, 🐍Python 3 and 🍵 Java.</br>
 </br>
 <strong>Skills:</strong>
 - C++ programming
