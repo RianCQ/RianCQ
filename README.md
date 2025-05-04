@@ -42,6 +42,7 @@ I have interest in Cybersecurity and Machine Learning! I'm currently studying R,
   <li>👯 I’m looking to collaborate on my first project Open Sourse</li>
   <li>📫 How to reach me: rianquintanilha5@gmail.com</li>
   <li>😄 Pronouns: He/Him</li>
+  <li>⚡ Fun fact: I love Animation Movies, especially Studio Ghibli's ones</li>
 </ul>
 
 
