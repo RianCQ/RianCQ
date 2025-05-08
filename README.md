@@ -46,5 +46,9 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I love animated films, especially those from Studio Ghibli.</li>
 </ul>
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riancq&show_icons=true&locale=en&layout=compact" alt="riancq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riancq&show_icons=true&locale=en" alt="riancq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riancq&" alt="riancq" /></p>
 
 
