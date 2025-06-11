@@ -1,11 +1,11 @@
-<h1 align="center">Hi folks👋, Welcome!</h1>
-<p align="right"> <img src="" alt="Octocat" width="150"/> </p>
-Hello! My name is <i>Rian C. Quintanilha</i>. I'm from Federal University of Juiz de Fora taking BS Computer Science.💻</br>
+# Hi folks👋, Welcome!
+<img align="right" src="images/octocat-1749605393505.png" width="210">
+Hello! My name is <i>Rian C. Quintanilha</i>. I'm from Federal University of Juiz de Fora taking BS Computer Science.</br>
 I have interest in Cybersecurity and Machine Learning, currently studying R, RStudio, 🐍Python 3 and 🍵 Java.</br>
 </br>
-<strong>Skills:</strong>
-- C++ programming
-- Web Development
+<strong>Skills:</strong> </br>
+-  C++ programming </br>
+-  Web Development
 </br>
 <strong>Tools:</strong>
 </br>
