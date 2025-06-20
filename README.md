@@ -9,11 +9,8 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
   <li>C++ programming</li>
   <li>Web Development</li>
 </ul>
-<strong>Tools:</strong>
+<strong>Languages:</strong>
 </br>
-<img src="https://github.com/user-attachments/assets/d77ea397-1187-4360-a1be-27181feb48ec" alt="VS Code logo" width="50"/>
-<!--![download](https://github.com/user-attachments/assets/5deab531-4bee-4b4c-ad92-23543f2bc977)-->
-<!--<img src="https://github.com/user-attachments/assets/d334e630-960e-4ccd-84ff-f26fec1f3713" alt="HTML5 logo" width="65"/>-->
 <img src="https://github.com/user-attachments/assets/37bdb76f-6dc5-4fee-8870-8257f1a75ea1" alt="HTML5 logo" width="65"/>
 <img src="https://github.com/user-attachments/assets/f8461b59-2d98-4684-a04d-d6eb11710351" alt="CSS3 logo" width="45"/> 
 <img src="https://github.com/user-attachments/assets/5c6153fe-58fa-4243-bfe8-2b58dd55928d" alt="JS logo" width="50"/>
@@ -21,6 +18,10 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <img src="https://github.com/user-attachments/assets/8debedcb-19e2-4aab-830b-237e6582fa0c" alt="R logo" width="60"/>
 <img src="https://github.com/user-attachments/assets/ee2a5b0e-a60c-4bd4-be0c-359f3d47f25d" alt="Python logo" width="55"/>
 <img src="https://github.com/user-attachments/assets/49ef415e-5fe5-4d4b-818c-f31b429cf693" alt="Java logo" width="35"/>
+</br>
+<strong>Tools:</strong>
+</br>
+<img src="https://github.com/user-attachments/assets/d77ea397-1187-4360-a1be-27181feb48ec" alt="VS Code logo" width="50"/>
 <img src="https://github.com/user-attachments/assets/74c520a2-0e63-4748-9f3d-94d38473fefa" alt="Git logo" width="50"/>
 
 <strong>Social Medias:</strong> 
@@ -38,6 +39,6 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riancq&show_icons=true&locale=en&layout=compact" alt="riancq" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riancq&show_icons=true&locale=en" alt="riancq" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riancq&" alt="riancq" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riancq&" alt="riancq" /></p>-->
 
 
