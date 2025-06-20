@@ -22,11 +22,11 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <img src="https://github.com/user-attachments/assets/ee2a5b0e-a60c-4bd4-be0c-359f3d47f25d" alt="Python logo" width="55"/>
 <img src="https://github.com/user-attachments/assets/49ef415e-5fe5-4d4b-818c-f31b429cf693" alt="Java logo" width="35"/>
 <img src="https://github.com/user-attachments/assets/74c520a2-0e63-4748-9f3d-94d38473fefa" alt="Git logo" width="50"/>
-<img src="https://github.com/user-attachments/assets/1f441d24-a2f0-48b7-bca8-7416b564f298" alt="GitHub logo" width="50"/></br>
 
-<strong>Social Medias:</strong> </br>
-  <a href="https://github.com/RianCQ"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub bagde"/>
-  <a href="https://www.linkedin.com/in/rian-quintanilha-06533027a/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bagde"/>
+<strong>Social Medias:</strong> 
+</br>
+  <a href="https://github.com/RianCQ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub bagde"/></a>
+  <a href="https://www.linkedin.com/in/rian-quintanilha-06533027a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bagde"/></a>
 <ul>
   <li>🔭 I’m currently working on this page</li>
   <li>🌱 I’m currently learning R and RStudio</li>
