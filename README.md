@@ -4,14 +4,13 @@ Hello! My name is <i>Rian C. Quintanilha</i>. I'm from Federal University of Jui
 I have interest in Cybersecurity and Machine Learning, currently studying R, RStudio, 🐍Python 3 and 🍵 Java.</br>
 </br>
 <img align="right" src="images/octocat-1749605393505.png" width="300">
-<strong>Skills:</strong> </br>
+<strong>Skills:</strong>
 <ul>
   <li>C++ programming</li>
   <li>Web Development</li>
 </ul>
 <strong>Tools:</strong>
 </br>
-<p>
 <img src="https://github.com/user-attachments/assets/d77ea397-1187-4360-a1be-27181feb48ec" alt="VS Code logo" width="50"/>
 <!--![download](https://github.com/user-attachments/assets/5deab531-4bee-4b4c-ad92-23543f2bc977)-->
 <!--<img src="https://github.com/user-attachments/assets/d334e630-960e-4ccd-84ff-f26fec1f3713" alt="HTML5 logo" width="65"/>-->
@@ -24,8 +23,10 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <img src="https://github.com/user-attachments/assets/49ef415e-5fe5-4d4b-818c-f31b429cf693" alt="Java logo" width="35"/>
 <img src="https://github.com/user-attachments/assets/74c520a2-0e63-4748-9f3d-94d38473fefa" alt="Git logo" width="50"/>
 <img src="https://github.com/user-attachments/assets/1f441d24-a2f0-48b7-bca8-7416b564f298" alt="GitHub logo" width="50"/></br>
-</p>
-</br>
+
+<strong>Social Medias:</strong> </br>
+  <a href="https://github.com/RianCQ"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub bagde"/>
+  <a href="https://www.linkedin.com/in/rian-quintanilha-06533027a/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bagde"/>
 <ul>
   <li>🔭 I’m currently working on this page</li>
   <li>🌱 I’m currently learning R and RStudio</li>
