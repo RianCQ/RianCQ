@@ -12,6 +12,7 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <strong>Languages:</strong>
 <br/>
 <p><img src="/assets/images/HTML_logo.png" alt="HTML5 logo" width="65" style="margin: 10px;"/> <img src="/assets/images/CSS_logo.png" alt="CSS3 logo" width="45" style="margin: 10px;"/> <img src="/assets/images/JS_logo.png" alt="JS logo" width="50" style="margin: 10px;"/></P> 
+
 <p><img src="/assets/images/C++_logo.png" alt="C++ logo" width="45" style="margin: 10px;"/> <img src="/assets/images/R_logo.png" alt="R logo" width="90" style="margin: 10px;"/> <img src="/assets/images/Python_logo.png" alt="Python logo" width="55" style="margin: 10px;"/> <img src="/assets/images/Java_logo.png" alt="Java logo" width="35" style="margin: 10px;" /></P>
 <br/>
 <strong>Tools:</strong>
@@ -31,13 +32,18 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
   <li>⚡ Fun fact: I love animated films, especially those from Studio Ghibli.</li>
 </ul>
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riancq&show_icons=true&locale=en&layout=compact" alt="riancq" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riancq&show_icons=true&locale=en" alt="riancq" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riancq" alt="riancq" />
