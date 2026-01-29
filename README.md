@@ -16,7 +16,7 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <br/>
 <strong>Tools:</strong>
 <br/>
-<img src="/assets/images/VS_Code_logo.webp" alt="VS Code logo" width="50"/> <img src="/assets/images/Git_logo.png" alt="Git logo" width="50"/>
+<p><img src="/assets/images/VS_Code_logo.webp" alt="VS Code logo" width="50"/> <img src="/assets/images/Git_logo.png" alt="Git logo" width="50"/></P>
 
 <strong>Social Medias:</strong>
 <br/>
@@ -31,8 +31,13 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
   <li>⚡ Fun fact: I love animated films, especially those from Studio Ghibli.</li>
 </ul>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riancq&show_icons=true&locale=en&layout=compact" alt="riancq" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riancq&show_icons=true&locale=en" alt="riancq" /></p>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riancq&" alt="riancq" /></p>-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riancq&show_icons=true&locale=en&layout=compact" alt="riancq" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riancq&show_icons=true&locale=en" alt="riancq" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riancq&" alt="riancq" />
+</div>
 
 
