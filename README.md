@@ -11,12 +11,7 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 </ul>
 <strong>Languages:</strong>
 </br>
-<img src="/assets/images/HTML_logo.png" alt="HTML5 logo" width="65"/> <img src="/assets/images/CSS_logo.png" alt="CSS3 logo" width="45"/> 
-<img src="/assets/images/JS_logo.png" alt="JS logo" width="50"/>
-<img src="/assets/images/C++_logo.png" alt="C++ logo" width="45"/>
-<img src="/assets/images/R_logo.png" alt="R logo" width="90"/>
-<img src="/assets/images/Python_logo.png" alt="Python logo" width="55"/>
-<img src="/assets/images/Java_logo.png" alt="Java logo" width="35"/>
+<img src="/assets/images/HTML_logo.png" alt="HTML5 logo" width="65"/> <img src="/assets/images/CSS_logo.png" alt="CSS3 logo" width="45"/> <img src="/assets/images/JS_logo.png" alt="JS logo" width="50"/> <img src="/assets/images/C++_logo.png" alt="C++ logo" width="45"/> <img src="/assets/images/R_logo.png" alt="R logo" width="90"/> <img src="/assets/images/Python_logo.png" alt="Python logo" width="55"/> <img src="/assets/images/Java_logo.png" alt="Java logo" width="35"/>
 </br>
 <strong>Tools:</strong>
 </br>
