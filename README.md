@@ -22,7 +22,7 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <strong>Social Medias:</strong>
 <br/>
   <a href="https://github.com/RianCQ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub bagde"/></a>
-  <a href="https://www.linkedin.com/in/rian-quintanilha-06533027a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bagde"/></a>
+  <a href="https://www.linkedin.com/in/rian-cesar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn bagde"/></a>
 <ul>
   <li>🔭 I’m currently working on this page</li>
   <li>🌱 I’m currently learning R and RStudio</li>
@@ -39,9 +39,9 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 
 <br/>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riancq&show_icons=true&locale=en" alt="riancq" />
-</div>
+</div>-->
 
 <br/>
 
