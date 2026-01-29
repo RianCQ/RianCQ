@@ -15,7 +15,7 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 <img src="https://github.com/user-attachments/assets/f8461b59-2d98-4684-a04d-d6eb11710351" alt="CSS3 logo" width="45"/> 
 <img src="https://github.com/user-attachments/assets/5c6153fe-58fa-4243-bfe8-2b58dd55928d" alt="JS logo" width="50"/>
 <img src="https://github.com/user-attachments/assets/27692542-4600-4554-8e91-ce33df604df3" alt="C++ logo" width="45"/>
-<img src="https://github.com/user-attachments/assets/8debedcb-19e2-4aab-830b-237e6582fa0c" alt="R logo" width="60"/>
+<img src="/assets/images/r logo.jpg" alt="R logo" width="60"/>
 <img src="https://github.com/user-attachments/assets/ee2a5b0e-a60c-4bd4-be0c-359f3d47f25d" alt="Python logo" width="55"/>
 <img src="https://github.com/user-attachments/assets/49ef415e-5fe5-4d4b-818c-f31b429cf693" alt="Java logo" width="35"/>
 </br>
