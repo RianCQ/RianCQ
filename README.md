@@ -11,12 +11,12 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 </ul>
 <strong>Languages:</strong>
 <br/>
-<p><img src="/assets/images/HTML_logo.png" alt="HTML5 logo" width="65" margin="10"/> <img src="/assets/images/CSS_logo.png" alt="CSS3 logo" width="45" margin="10"/> <img src="/assets/images/JS_logo.png" alt="JS logo" width="50" margin="10"/></P> 
-<p><img src="/assets/images/C++_logo.png" alt="C++ logo" width="45" margin="10"/> <img src="/assets/images/R_logo.png" alt="R logo" width="90" margin="10"/> <img src="/assets/images/Python_logo.png" alt="Python logo" width="55" margin="10"/> <img src="/assets/images/Java_logo.png" alt="Java logo" width="35" margin="10" /></P>
+<p><img src="/assets/images/HTML_logo.png" alt="HTML5 logo" width="65" style="margin: 10px;"/> <img src="/assets/images/CSS_logo.png" alt="CSS3 logo" width="45" style="margin: 10px;"/> <img src="/assets/images/JS_logo.png" alt="JS logo" width="50" style="margin: 10px;"/></P> 
+<p><img src="/assets/images/C++_logo.png" alt="C++ logo" width="45" style="margin: 10px;"/> <img src="/assets/images/R_logo.png" alt="R logo" width="90" style="margin: 10px;"/> <img src="/assets/images/Python_logo.png" alt="Python logo" width="55" style="margin: 10px;"/> <img src="/assets/images/Java_logo.png" alt="Java logo" width="35" style="margin: 10px;" /></P>
 <br/>
 <strong>Tools:</strong>
 <br/>
-<p><img src="/assets/images/VS_Code_logo.webp" alt="VS Code logo" width="50" margin="10"/> <img src="/assets/images/Git_logo.png" alt="Git logo" width="50" margin="10"/></P>
+<p><img src="/assets/images/VS_Code_logo.webp" alt="VS Code logo" width="50" style="margin: 10px;"/> <img src="/assets/images/Git_logo.png" alt="Git logo" width="50" style="margin: 10px;"/></P>
 
 <strong>Social Medias:</strong>
 <br/>
@@ -40,7 +40,7 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riancq&" alt="riancq" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riancq" alt="riancq" />
 </div>
 
 
