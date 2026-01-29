@@ -11,18 +11,18 @@ I have interest in Cybersecurity and Machine Learning, currently studying R, RSt
 </ul>
 <strong>Languages:</strong>
 </br>
-<img src="https://github.com/user-attachments/assets/37bdb76f-6dc5-4fee-8870-8257f1a75ea1" alt="HTML5 logo" width="65"/>
-<img src="https://github.com/user-attachments/assets/f8461b59-2d98-4684-a04d-d6eb11710351" alt="CSS3 logo" width="45"/> 
-<img src="https://github.com/user-attachments/assets/5c6153fe-58fa-4243-bfe8-2b58dd55928d" alt="JS logo" width="50"/>
-<img src="https://github.com/user-attachments/assets/27692542-4600-4554-8e91-ce33df604df3" alt="C++ logo" width="45"/>
-<img src="/assets/images/R_logo.png" alt="R logo" width="60"/>
-<img src="https://github.com/user-attachments/assets/ee2a5b0e-a60c-4bd4-be0c-359f3d47f25d" alt="Python logo" width="55"/>
-<img src="https://github.com/user-attachments/assets/49ef415e-5fe5-4d4b-818c-f31b429cf693" alt="Java logo" width="35"/>
+<img src="/assets/images/HTML_logo.png" alt="HTML5 logo" width="65"/>
+<img src="/assets/images/CSS_logo.png" alt="CSS3 logo" width="45"/> 
+<img src="/assets/images/JS_logo.png" alt="JS logo" width="50"/>
+<img src="/assets/images/C++_logo.png" alt="C++ logo" width="45"/>
+<img src="/assets/images/R_logo.png" alt="R logo" width="90"/>
+<img src="/assets/images/Python_logo.png" alt="Python logo" width="55"/>
+<img src="/assets/images/Java_logo.png" alt="Java logo" width="35"/>
 </br>
 <strong>Tools:</strong>
 </br>
-<img src="https://github.com/user-attachments/assets/d77ea397-1187-4360-a1be-27181feb48ec" alt="VS Code logo" width="50"/>
-<img src="https://github.com/user-attachments/assets/74c520a2-0e63-4748-9f3d-94d38473fefa" alt="Git logo" width="50"/>
+<img src="/assets/images/VS_Code_logo.webp" alt="VS Code logo" width="50"/>
+<img src="/assets/images/Git_logo.png" alt="Git logo" width="50"/>
 
 <strong>Social Medias:</strong> 
 </br>
